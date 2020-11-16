@@ -47,6 +47,13 @@
                 color: #01447e;
             }
         }
+        //breadcrumbs last child trick to sho current step 
+        li.panel-active {
+            &:last-child,
+            &:only-child {
+                opacity: 1;
+            }
+        }
         li {
             display: inline;
             font-style: normal;

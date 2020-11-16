@@ -59,6 +59,10 @@
   color: #01447e;
 }
 
+.newbar .newbar-breadcrumbs li.panel-active:last-child, .newbar .newbar-breadcrumbs li.panel-active:only-child {
+  opacity: 1;
+}
+
 .newbar .newbar-breadcrumbs li {
   display: inline;
   font-style: normal;
