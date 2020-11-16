@@ -4,7 +4,7 @@
 
 .topbar {
     height: 48px;
-    width: 100vw;
+    width: 100%;
     font-size: 14px;
     z-index: 99;
     background: white;
