@@ -212,7 +212,7 @@ div#panel-default {
 }
 
 .stage {
-    height: 100vh;
+    min-height: 100vh;
     display: grid;
     place-items: center;
     .stage-hero {
@@ -267,6 +267,14 @@ div#panel-default {
             color: #FFFFFF;
             &:hover {
                 background: var(--wix-color-hover);
+            }
+            @media (max-width: 768px) {
+                margin-bottom: var(--simsize);
+            }
+            #add-panel {
+                @media (max-width: 768px) {
+                    margin-bottom: var(--simsize);
+                }
             }
         }
     }

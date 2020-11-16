@@ -10,6 +10,13 @@
     background: white;
 }
 
+@media(max-width:768px) {
+    .topbar,
+    main {
+        overflow-x: hidden;
+    }
+}
+
 .topbar .bordered {
     border-left: 1px solid var(--blue--light);
 }

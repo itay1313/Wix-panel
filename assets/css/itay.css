@@ -274,7 +274,7 @@ div#panel-default #close-panel {
 }
 
 .stage {
-  height: 100vh;
+  min-height: 100vh;
   display: -ms-grid;
   display: grid;
   place-items: center;
@@ -352,6 +352,18 @@ div#panel-default #close-panel {
 
 .stage .stage-hero a:hover {
   background: var(--wix-color-hover);
+}
+
+@media (max-width: 768px) {
+  .stage .stage-hero a {
+    margin-bottom: var(--simsize);
+  }
+}
+
+@media (max-width: 768px) {
+  .stage .stage-hero a #add-panel {
+    margin-bottom: var(--simsize);
+  }
 }
 
 .panel input[type="search"]::-webkit-input-placeholder {
