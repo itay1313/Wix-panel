@@ -13,6 +13,17 @@ window.addEventListener("DOMContentLoaded", (event) => {
     const panelThree = document.querySelector('#bread-gallery');
 
 
+    // function for removing class active and change to inactive
+    function changeClassNotActive(panel) {
+        panel.classList.remove('panel-active');
+        panel.classList.add('panel-inactive');
+    }
+
+    // function for removing class inactive and change to active
+    function changeClassActive(panel) {
+        panel.classList.remove('panel-inactive');
+        panel.classList.add('panel-active');
+    }
 
     const allPanels = [panelDefault, panelMedia, panelGallery]
 
@@ -22,16 +33,11 @@ window.addEventListener("DOMContentLoaded", (event) => {
 
         activePanels.forEach(
             function(panel) {
-                panel.classList.remove('panel-active');
-                panel.classList.add('panel-inactive');
+                changeClassNotActive(panel);
             }
         )
     }
 
-    function changeClassActive(panel) {
-        panel.classList.remove('panel-inactive');
-        panel.classList.add('panel-active');
-    }
 
 
     // Clicking on the Add plus button
@@ -39,8 +45,8 @@ window.addEventListener("DOMContentLoaded", (event) => {
 
         // all panels with only inactive class
         if (panelDefault.classList.contains('panel-active')) {
-            panelDefault.classList.remove('panel-active');
-            panelDefault.classList.add('panel-inactive');
+            changeClassNotActive(panelDefault);
+            changeClassNotActive(panelOne);
         } else {
             closePanels();
             changeClassActive(panelDefault);
