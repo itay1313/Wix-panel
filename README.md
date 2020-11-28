@@ -16,6 +16,7 @@ The User flow I decided to concentrate on is:
 Panel -> Media -> Gallery
  
 2. Wireframes - 
+<a href="https://www.figma.com/proto/x6jSRH1ca7zfyblgqO34Eh/WIX?node-id=291%3A277&viewport=-2545%2C1906%2C0.543749988079071&scaling=contain" target="_blank">LINK</a>
 I created a wireframe and put together a Figma prototype.
 
 some concepts in my wireframe:
