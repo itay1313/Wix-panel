@@ -1,4 +1,4 @@
-<h1>I Wireframed/Designed and Develop A live prototype for Wix platform From scratch (Not Editor X)</h1>
+<h1>I Wireframed/Designed and Developed A live prototype for Wix's platform From scratch.</h1>
 <strong>
 I have created 3 pages in <a href="https://www.figma.com/file/x6jSRH1ca7zfyblgqO34Eh/WIX?node-id=291%3A277" target="_blank">Figma</a>: 
 </strong><br><br>
