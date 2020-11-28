@@ -1,12 +1,7 @@
 <h1>Wireframe/Design and prototyping Wix platform From scratch</h1>
-
-WIX PANEL - <a href="https://www.figma.com/file/x6jSRH1ca7zfyblgqO34Eh/WIX?node-id=291%3A277">Figma</a>
-
-Please find the following Figma URL:
-https://www.figma.com/file/x6jSRH1ca7zfyblgqO34Eh/WIX?node-id=0%3A1
-
-I have created 3 pages in Figma: 
-
+<strong>
+I have created 3 pages in <a href="https://www.figma.com/file/x6jSRH1ca7zfyblgqO34Eh/WIX?node-id=291%3A277" target="_blank">Figma</a>: 
+</strong>
 1. Storyboard - 
 I researched and compared 4 successful website editors - Wix, Webflow, Elementor, and Editor X.
 
