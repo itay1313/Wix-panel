@@ -29,12 +29,16 @@ Settings - to see more options
 Theme editor - Design system manager
 Layers navigator - to see the whole page and be able to drag and change the order in case the page is long it is helpful.
 
+<br>
+<br>
 
 3. Prototype - 
 <a href="https://www.figma.com/proto/x6jSRH1ca7zfyblgqO34Eh/WIX?node-id=342%3A400&viewport=507%2C372%2C0.1149674654006958&scaling=min-zoom" target="_blank">Figma</a>
 - I designed my wireframe, and improved it a bit.
   - in step number 2 and step number 3, you can drag the widget to the stage.
 - after dragging an element to the stage a draggable window appear in the right side with more setting for each widget  
+<br>
+<br>
 
 4. Finally, the code.
 <a href="https://github.com/itay1313/Wix-panel" target="_blank">GitHub</a>
