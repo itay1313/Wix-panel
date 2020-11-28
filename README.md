@@ -1,4 +1,4 @@
-<h1>Wireframe/Design and prototyping Wix platform From scratch</h1>
+<h1>I Wireframed/Designed and Develop A live prototype for Wix platform From scratch (Not Editor X)</h1>
 <strong>
 I have created 3 pages in <a href="https://www.figma.com/file/x6jSRH1ca7zfyblgqO34Eh/WIX?node-id=291%3A277" target="_blank">Figma</a>: 
 </strong>
@@ -28,11 +28,12 @@ Layers navigator - to see the whole page and be able to drag and change the orde
 
 
 3. Prototype - 
+<a href="https://www.figma.com/proto/x6jSRH1ca7zfyblgqO34Eh/WIX?node-id=342%3A400&viewport=507%2C372%2C0.1149674654006958&scaling=min-zoom" target="_blank">Figma</a>
 - I designed my wireframe, and improved it a bit.
   - in step number 2 and step number 3, you can drag the widget to the stage.
 - after dragging an element to the stage a draggable window appear in the right side with more setting for each widget  
 
 4. Finally, the code.
-Here is the link for Github.
+<a href="https://github.com/itay1313/Wix-panel" target="_blank">GitHub</a>
 When you have finished downloading the attachment, please click on the following steps: 
  Plus button -> Panel -> Media -> Gallery
